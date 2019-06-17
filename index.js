@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
   panel: {
     width: 1000,
     height: 600,
-    
     justifyContent: 'center',
     alignItems: 'center',
   },
