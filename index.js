@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
   panel: {
     width: 1000,
     height: 600,
-    backgroundColor: 'rgba(255, 0, 0, 1.0)',
+    
     justifyContent: 'center',
     alignItems: 'center',
   },

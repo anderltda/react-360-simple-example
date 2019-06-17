@@ -16,7 +16,7 @@ function init(bundle, parent, options = {}) {
   r360.controls.clearRaycasters();
   r360.controls.addRaycaster(SimpleRaycaster);
 
-  r360.compositor.setBackground(r360.getAssetURL('garden,jpg'));
+  r360.compositor.setBackground(r360.getAssetURL('garden.jpg'));
 }
 
 window.React360 = {init};
